@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import AuthProvider from "@/components/AuthProvider";
 import Navbar from "@/components/Navbar";
+import { LocationProvider } from "@/context/LocationContext";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -12,17 +13,15 @@ export const metadata: Metadata = {
   description: "Compare prices from Zepto, Blinkit, and Swiggy Instamart.",
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body className={inter.className}>
         <AuthProvider>
-          <Navbar />
-          <main>{children}</main>
+          <LocationProvider>
+            <Navbar />
+            <main>{children}</main>
+          </LocationProvider>
         </AuthProvider>
       </body>
     </html>
