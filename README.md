@@ -60,9 +60,9 @@ Smooth UX: Responsive, animated interface keeps users engaged and confident.
 <img width="190" height="99" alt="Website Home Page" src="https://github.com/user-attachments/assets/cd3d2d61-3862-4d00-bcb7-886fbaa59bd3" />
 <img width="190" height="98" alt="Dashboard Image" src="https://github.com/user-attachments/assets/baa75f7b-faa4-4763-93d5-b8c567ef1a14" />
 <img width="190" height="99" alt="Response of api on website" src="https://github.com/user-attachments/assets/f57639a8-67fb-4176-839a-5334bac4059f" />
-<img width="97" height="25" alt="search product api call to backend" src="https://github.com/user-attachments/assets/5da62a8b-041c-4b00-9938-0087e1880f9f" />
+<img width="150" height="70" alt="search product api call to backend" src="https://github.com/user-attachments/assets/5da62a8b-041c-4b00-9938-0087e1880f9f" />
 <img width="190" height="98" alt="Location with Api call" src="https://github.com/user-attachments/assets/7caa0a99-e0e8-4aea-9290-d0844d86d6b9" />
-<img width="96" height="74" alt="Type char and Getting location response with api" src="https://github.com/user-attachments/assets/5eadf785-7efd-43c2-9e06-497f5abf1b5f" />
+<img width="150" height="74" alt="Type char and Getting location response with api" src="https://github.com/user-attachments/assets/5eadf785-7efd-43c2-9e06-497f5abf1b5f" />
 
 
 
